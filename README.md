@@ -8,7 +8,7 @@ Sou um entusiasta de tecnologia focado em transformar problemas complexos em sol
 
 ---
 
-## 🚀 O que estou a construir agora?
+## 🚀 O que estou construindo agora?
 
 * **Sistema PMOC (C# / WinForms):** Aplicação para Gestão de Manutenção e Operação (PMOC), automatizando processos de climatização.
 * **Delivery Local (Flutter / Firebase):** App de entregas para comerciantes locais, focado em regiões ainda não atendidas por grandes plataformas.
